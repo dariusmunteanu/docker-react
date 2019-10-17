@@ -7,5 +7,3 @@ before_install:
 
 script:
   - docker run dariusmunteanu/docker-react npm run test -- --coverage
-
-language: generic 
